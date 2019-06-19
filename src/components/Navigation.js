@@ -20,4 +20,6 @@ const Navigation = () => {
   );
 };
 
+// That's it 😅
+
 export default Navigation;
